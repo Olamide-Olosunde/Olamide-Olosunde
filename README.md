@@ -25,7 +25,7 @@ A full-stack web application that allows users to learn about fruits.
 * [Repo](https://github.com/Olamide-Olosunde/Fruit-Education-Website)
 
 ### Portfolio Website
-My personalized website featuring my academic journey, some experiences of mine as well as my completed projects.
+My personalized website featuring my academic journey, some experiences as well as my completed projects.
 
 * [Live Demo](https://iamola.net/)
 * [Repo](https://github.com/Olamide-Olosunde/My-Website?tab=readme-ov-file)
