@@ -30,7 +30,7 @@ My personalized website featuring my academic journey, some experiences as well 
 * [Live Demo](https://iamola.net/)
 * [Repo](https://github.com/Olamide-Olosunde/My-Website?tab=readme-ov-file)
 
-# ✍️ Developer Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=In%20theory%2C%20theory%20and%20practice%20are%20the%20same.%20In%20practice%2C%20they%E2%80%99re%20not.&author=Yogi%20Berra)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
